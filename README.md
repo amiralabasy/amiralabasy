@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amir Alabasy</h1>
 <h3 align="center">A DevOps Engineer</h3>
 <p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQG4cUCLl6xxKQ/profile-displaybackgroundimage-shrink_350_1400/B4DZaINeHiHQAY-/0/1746041962234?e=1753315200&v=beta&t=VVHS8nlJ-UvTalf984TWu2kKnWr-rajc-KOzz5epeOk" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledhawil&label=Profile%20views&color=0e75b6&style=flat" alt="khaledhawil" /> </p>
+<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1073/0*mxF4HB-dple7v-wc.png" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledhawil" alt="khaledhawil" /></a> </p> -->
-
-<p align="left"> <a href="https://twitter.com/khaledhawill" target="blank"><img src="https://img.shields.io/twitter/follow/khaledhawill?logo=twitter&style=for-the-badge" alt="khaledhawill" /></a> </p>
 
 - 🌱 I’m currently learning **Terraform,Jenkins**
 
